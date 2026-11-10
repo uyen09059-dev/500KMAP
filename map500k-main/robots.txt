@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /pages/
+
+Sitemap: https://joseph-pham08.github.io/map500k/sitemap.xml
